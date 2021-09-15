@@ -1,0 +1,20 @@
+C:\Users\Женя\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Form1.resources
+C:\Users\Женя\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Женя\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\Женя\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Женя\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.exe.config
+C:\Users\Женя\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.exe
+C:\Users\Женя\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.pdb
+C:\Users\Женя\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.exe
+C:\Users\Женя\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.pdb
+C:\Users\Женя\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+E:\Yevhen\Download chrome\6 курс\диплом\visual studio\Wavelet_image_compressor\WindowsFormsApp4\bin\Release\WindowsFormsApp4.exe.config
+E:\Yevhen\Download chrome\6 курс\диплом\visual studio\Wavelet_image_compressor\WindowsFormsApp4\bin\Release\WindowsFormsApp4.exe
+E:\Yevhen\Download chrome\6 курс\диплом\visual studio\Wavelet_image_compressor\WindowsFormsApp4\bin\Release\WindowsFormsApp4.pdb
+E:\Yevhen\Download chrome\6 курс\диплом\visual studio\Wavelet_image_compressor\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+E:\Yevhen\Download chrome\6 курс\диплом\visual studio\Wavelet_image_compressor\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Form1.resources
+E:\Yevhen\Download chrome\6 курс\диплом\visual studio\Wavelet_image_compressor\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Properties.Resources.resources
+E:\Yevhen\Download chrome\6 курс\диплом\visual studio\Wavelet_image_compressor\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.GenerateResource.Cache
+E:\Yevhen\Download chrome\6 курс\диплом\visual studio\Wavelet_image_compressor\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+E:\Yevhen\Download chrome\6 курс\диплом\visual studio\Wavelet_image_compressor\WindowsFormsApp4\obj\Release\WindowsFormsApp4.exe
+E:\Yevhen\Download chrome\6 курс\диплом\visual studio\Wavelet_image_compressor\WindowsFormsApp4\obj\Release\WindowsFormsApp4.pdb
